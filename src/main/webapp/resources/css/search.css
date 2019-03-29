@@ -1,0 +1,39 @@
+.space-between-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+}
+
+.avatar {
+    width: 30px;
+    margin: 4px;
+}
+
+.elem {
+    width: 30%;
+    margin: 2%;
+}
+
+.elem-small {
+    width: 20%;
+    margin: 2%;
+}
+
+.form {
+    margin: 4%;
+}
+
+.input-search {
+    width: 400px;
+    height: 30px;
+}
+
+.btn {
+    height: 30px;
+    width: 80px;
+}
+
+.center-block {
+    width: 490px;
+    margin: 0 auto;
+}
